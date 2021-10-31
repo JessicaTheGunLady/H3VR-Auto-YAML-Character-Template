@@ -1,0 +1,10 @@
+{
+    "name": "Character_Template",
+    "version_number": "0.0.0",
+    "website_url": "https://github.com/JessicaTheGunLady/...",
+    "description": "Just... Change all of this to suit whatever the hell you plan on doing with it, and remember that the name shouldn't have any spaces in it or anything, Thunderstore gets a bit angry if you try to do that.",
+    "dependencies": [
+        "DeliCollective-Deli-0.4.1",
+        "devyndamonster-TakeAndHoldTweaker-1.7.0"
+    ]
+}

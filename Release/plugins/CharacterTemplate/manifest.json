@@ -1,0 +1,23 @@
+﻿{
+  "guid": "h3vr.tnhtweaker.customcharacter",
+  "version": "0.0.0",
+  "require": "0.4.0",
+  "dependencies": {
+      "h3vr.tnhtweaker.deli": "1.7.0"
+  },
+  "name": "Character Template",
+  "description": "Who even uses this anymore?",
+  "source_url": "",
+  "authors": [ 
+    "You." 
+  ],
+  "assets": {
+    "patcher": {},
+    "setup": {
+      "CharacterTemplate/sosigs/*sosig_*.json": "h3vr.tnhtweaker.deli:sosig",
+      "CharacterTemplate/vault/*vault_*.json": "h3vr.tnhtweaker.deli:vault_file",
+      "CharacterTemplate/": "h3vr.tnhtweaker.deli:character"
+    },
+    "runtime": {}
+  }
+}
